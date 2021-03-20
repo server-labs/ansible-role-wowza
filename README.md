@@ -10,6 +10,9 @@ Please note: checking for already installed on the server Wowza Streaming Engine
 
 Requirements are listed in the role metadata.
 
+Control node needs python-bcrypt installed.
+For bcrypt password encoding method python-passlib and ansible 2.7 or newer required on a control node.
+
 ## Role Variables
 
 ### Default role variables
